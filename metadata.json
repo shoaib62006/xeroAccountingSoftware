@@ -1,0 +1,6 @@
+{
+  "name": "XeroCloud — Global Accounting & Financial Operations Platform",
+  "description": "Cloud-based accounting platform for small businesses featuring multi-currency invoicing, automated tax compliance, bank reconciliation, real-time cash flow reporting, payroll, Stripe integration, and E2E encrypted audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
